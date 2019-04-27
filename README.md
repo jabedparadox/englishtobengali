@@ -1,4 +1,4 @@
-# Project description
+# Project description.
 
 Englishtobengali is a web based Bangla to English and reverse translator.
 
@@ -16,6 +16,7 @@ Install ```englishtobengali``` through pip using Python 3.
 ```
 $ pip install englishtobengali
 $ pip3 install englishtobengali
+
 ```
 
 ### Usages/Example.
@@ -28,6 +29,7 @@ translet = entobn.translate_bengali('How are you?') # Translate To Bengali From 
 tobangla = entobn.en_bn('How are you?') # Translate To Bengali From English.
 toenglish = entobn.bn_en('???? ???? ????') # Translate To English From Bengali.
 print (toenglish)
+
 ```
 
 
@@ -47,6 +49,7 @@ Facebook : [Md Jabed Ali](https://www.facebook.com/paradox.jabed)
 
 Else GitHub issue system :
 GitHub : [Md Jabed Ali](https://github.com/jabedparadox)
+
 PYPI : [Md Jabed Ali](https://pypi.org/project/englishtobengali/)
 
 ### Thanks.
